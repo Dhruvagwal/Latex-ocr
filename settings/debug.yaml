@@ -1,5 +1,5 @@
 # Input/Output/Name
-data: "dataset/data/dataset.pkl"
+data: "dataset/data/train.pkl"
 valdata: "dataset/data/val.pkl"
 tokenizer: "dataset/tokenizer.json"
 output_path: "outputs"
